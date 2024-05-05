@@ -1,2 +1,2 @@
-# MediSafe
+# BlocDoc
 Health Records Management Using Blockchain
